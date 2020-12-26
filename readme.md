@@ -1,0 +1,1 @@
+For testing static site hosting on Digital Ocean's App Platform (https://www.digitalocean.com/products/app-platform/) and Cloudflare Pages (https://www.cloudflare.com/pages-jamstack-platform-beta-sign-up/) (once they open access).
